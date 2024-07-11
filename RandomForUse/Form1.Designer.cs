@@ -69,7 +69,7 @@
             // 
             // RandomBtn
             // 
-            RandomBtn.Location = new Point(72, 238);
+            RandomBtn.Location = new Point(72, 242);
             RandomBtn.Name = "RandomBtn";
             RandomBtn.Size = new Size(250, 86);
             RandomBtn.TabIndex = 2;
@@ -86,6 +86,7 @@
             Controls.Add(RandomGroupBox1);
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load;
             RandomGroupBox1.ResumeLayout(false);
             RandomGroupBox1.PerformLayout();
             ResumeLayout(false);
