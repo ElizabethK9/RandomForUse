@@ -28,75 +28,75 @@
         /// </summary>
         private void InitializeComponent()
         {
-            groupBox1 = new GroupBox();
-            monthCalendar1 = new MonthCalendar();
-            button1 = new Button();
-            textBox1 = new TextBox();
-            textBox2 = new TextBox();
-            groupBox1.SuspendLayout();
+            RandomGroupBox1 = new GroupBox();
+            RandomTxt2 = new TextBox();
+            RandomTxt1 = new TextBox();
+            RandomMonthCalendar1 = new MonthCalendar();
+            RandomBtn = new Button();
+            RandomGroupBox1.SuspendLayout();
             SuspendLayout();
             // 
-            // groupBox1
+            // RandomGroupBox1
             // 
-            groupBox1.Controls.Add(textBox2);
-            groupBox1.Controls.Add(textBox1);
-            groupBox1.Location = new Point(72, 63);
-            groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(200, 145);
-            groupBox1.TabIndex = 0;
-            groupBox1.TabStop = false;
-            groupBox1.Text = "groupBox1";
+            RandomGroupBox1.Controls.Add(RandomTxt2);
+            RandomGroupBox1.Controls.Add(RandomTxt1);
+            RandomGroupBox1.Location = new Point(72, 63);
+            RandomGroupBox1.Name = "RandomGroupBox1";
+            RandomGroupBox1.Size = new Size(200, 145);
+            RandomGroupBox1.TabIndex = 0;
+            RandomGroupBox1.TabStop = false;
+            RandomGroupBox1.Text = "The Random Group Box!!!";
             // 
-            // monthCalendar1
+            // RandomTxt2
             // 
-            monthCalendar1.Location = new Point(323, 63);
-            monthCalendar1.Name = "monthCalendar1";
-            monthCalendar1.TabIndex = 1;
+            RandomTxt2.Location = new Point(20, 77);
+            RandomTxt2.Name = "RandomTxt2";
+            RandomTxt2.Size = new Size(100, 23);
+            RandomTxt2.TabIndex = 1;
             // 
-            // button1
+            // RandomTxt1
             // 
-            button1.Location = new Point(72, 238);
-            button1.Name = "button1";
-            button1.Size = new Size(250, 86);
-            button1.TabIndex = 2;
-            button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
+            RandomTxt1.Location = new Point(21, 34);
+            RandomTxt1.Name = "RandomTxt1";
+            RandomTxt1.Size = new Size(100, 23);
+            RandomTxt1.TabIndex = 0;
             // 
-            // textBox1
+            // RandomMonthCalendar1
             // 
-            textBox1.Location = new Point(21, 34);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(100, 23);
-            textBox1.TabIndex = 0;
+            RandomMonthCalendar1.Location = new Point(323, 63);
+            RandomMonthCalendar1.Name = "RandomMonthCalendar1";
+            RandomMonthCalendar1.TabIndex = 1;
             // 
-            // textBox2
+            // RandomBtn
             // 
-            textBox2.Location = new Point(20, 77);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(100, 23);
-            textBox2.TabIndex = 1;
+            RandomBtn.Location = new Point(72, 238);
+            RandomBtn.Name = "RandomBtn";
+            RandomBtn.Size = new Size(250, 86);
+            RandomBtn.TabIndex = 2;
+            RandomBtn.Text = "The Random Button!";
+            RandomBtn.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(button1);
-            Controls.Add(monthCalendar1);
-            Controls.Add(groupBox1);
+            Controls.Add(RandomBtn);
+            Controls.Add(RandomMonthCalendar1);
+            Controls.Add(RandomGroupBox1);
             Name = "Form1";
             Text = "Form1";
-            groupBox1.ResumeLayout(false);
-            groupBox1.PerformLayout();
+            RandomGroupBox1.ResumeLayout(false);
+            RandomGroupBox1.PerformLayout();
             ResumeLayout(false);
         }
 
         #endregion
 
-        private GroupBox groupBox1;
-        private TextBox textBox2;
-        private TextBox textBox1;
-        private MonthCalendar monthCalendar1;
-        private Button button1;
+        private GroupBox RandomGroupBox1;
+        private TextBox RandomTxt2;
+        private TextBox RandomTxt1;
+        private MonthCalendar RandomMonthCalendar1;
+        private Button RandomBtn;
     }
 }
