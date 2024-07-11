@@ -1,0 +1,16 @@
+D:\.net\RandomForUse\RandomForUse\bin\Debug\net8.0-windows\RandomForUse.exe
+D:\.net\RandomForUse\RandomForUse\bin\Debug\net8.0-windows\RandomForUse.deps.json
+D:\.net\RandomForUse\RandomForUse\bin\Debug\net8.0-windows\RandomForUse.runtimeconfig.json
+D:\.net\RandomForUse\RandomForUse\bin\Debug\net8.0-windows\RandomForUse.dll
+D:\.net\RandomForUse\RandomForUse\bin\Debug\net8.0-windows\RandomForUse.pdb
+D:\.net\RandomForUse\RandomForUse\obj\Debug\net8.0-windows\RandomForUse.Form1.resources
+D:\.net\RandomForUse\RandomForUse\obj\Debug\net8.0-windows\RandomForUse.csproj.GenerateResource.cache
+D:\.net\RandomForUse\RandomForUse\obj\Debug\net8.0-windows\RandomForUse.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\RandomForUse\RandomForUse\obj\Debug\net8.0-windows\RandomForUse.AssemblyInfoInputs.cache
+D:\.net\RandomForUse\RandomForUse\obj\Debug\net8.0-windows\RandomForUse.AssemblyInfo.cs
+D:\.net\RandomForUse\RandomForUse\obj\Debug\net8.0-windows\RandomForUse.csproj.CoreCompileInputs.cache
+D:\.net\RandomForUse\RandomForUse\obj\Debug\net8.0-windows\RandomForUse.dll
+D:\.net\RandomForUse\RandomForUse\obj\Debug\net8.0-windows\refint\RandomForUse.dll
+D:\.net\RandomForUse\RandomForUse\obj\Debug\net8.0-windows\RandomForUse.pdb
+D:\.net\RandomForUse\RandomForUse\obj\Debug\net8.0-windows\RandomForUse.genruntimeconfig.cache
+D:\.net\RandomForUse\RandomForUse\obj\Debug\net8.0-windows\ref\RandomForUse.dll
